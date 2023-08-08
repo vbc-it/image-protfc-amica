@@ -1,0 +1,3 @@
+FROM quay.vbc.ac.at/it/protfc-amica:3.0.1
+
+RUN chmod -R  g+rwx  /root
